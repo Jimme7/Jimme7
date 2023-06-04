@@ -4,7 +4,7 @@
   
 </div>
 
-I'm Jimena, a passionate about data science and Python development. I specialize in data analytics, machine learning, and data visualization. Here you will find information about my projects, skills, and tools I use in my work.
+I'm **Jimena**, a passionate about data science and Python development. I specialize in data analytics, machine learning, and data visualization. Here you will find information about my projects, skills, and tools I use in my work.
 <div align="center">
   <p>
     <img src="girlcoding.gif" alt="GIF" width="400" height="190" />

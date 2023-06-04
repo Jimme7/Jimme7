@@ -22,7 +22,7 @@ I'm Jimena, a passionate about data science and Python development. I specialise
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white&labelColor=101010)
 
 ## 📩 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jimeali/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimeali/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-plastic&logo=Gmail&logoColor=white&link=mailto:jimena.alia.97@gmail.com)](mailto:jimena.alia.97@gmail.com)
 
 <!--
